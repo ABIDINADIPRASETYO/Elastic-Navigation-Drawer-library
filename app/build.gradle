@@ -27,6 +27,5 @@ dependencies {
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
     implementation 'de.hdodenhof:circleimageview:3.0.0'
     implementation 'me.imid.swipebacklayout.lib:library:1.1.0'
-    implementation 'com.github.ABIDINADIPRASETYO:gradientlayout:1.02'
     implementation project(':abidinflexiblenavdraw')
 }
